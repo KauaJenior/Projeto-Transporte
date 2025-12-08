@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\bin\Debug\Proj.Transporte.exe.config
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\bin\Debug\Proj.Transporte.exe
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\bin\Debug\Proj.Transporte.pdb
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\obj\Debug\Proj. Transporte.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\obj\Debug\Proj. Transporte.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\obj\Debug\Proj.Transporte.exe
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\obj\Debug\Proj.Transporte.pdb
+C:\Users\alexa\source\repos\Proj. Transporte\Proj. Transporte\obj\Debug\Proj.Transporte.exe.config
